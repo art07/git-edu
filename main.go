@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Test git app.")
+	fmt.Println("New msg.")
 }
