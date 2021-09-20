@@ -14,3 +14,6 @@ func main() {
 func myFunc(i1, i2 int32) int32 {
 	return i1 + i2
 }
+
+func funcForNewApi() {
+}
