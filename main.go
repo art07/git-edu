@@ -4,7 +4,6 @@ import "fmt"
 
 func main() {
 	fmt.Println("Test git app.")
-	fmt.Println("New msg.")
 
 	fmt.Println("123")
 	fmt.Println(myFunc(5, 7))
