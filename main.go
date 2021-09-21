@@ -10,6 +10,8 @@ func main() {
 
 	fmt.Println("Some changes! + Some string!")
 	fmt.Println("Some changes from second developer.")
+
+	// From first dev.
 }
 
 func myFunc(i1, i2 int32) int32 {
