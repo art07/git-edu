@@ -9,6 +9,7 @@ func main() {
 	fmt.Println(myFunc(5, 7))
 
 	fmt.Println("Some changes! + Some string!")
+	fmt.Println("Some changes from second developer.")
 }
 
 func myFunc(i1, i2 int32) int32 {
